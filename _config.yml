@@ -85,18 +85,18 @@ author:
   bio              : "Eureka!"
   location         : "Toronto, Canada"
   employer         : "University of Toronto"
-  pubmed           : $"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : $"http://yourfullgooglescholarurl.com"
-  email            : "hlmao111at163dotcom"
+  pubmed           : 
+  googlescholar    : 
+  email            : "hldotmaoatmaildotutorontodotca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile
   uri              :
   facebook         :
   github           : "huanlinmao"
   instagram        :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
-  steam            : "https://steamcommunity.com/profiles/76561199020642131"
-  twitter          : #"replacethistwitterhandle"
+  linkedin         : “https://www.linkedin.com/in/huanlin-mao-186508242/”
+  orcid            : 
+  steam            : 
+  twitter          : 
   vine             :
   weibo            :
   youtube          :
