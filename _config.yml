@@ -83,11 +83,11 @@ author:
   name             : "Huanlin Mao"
   avatar           : "profile.png"
   bio              : "Eureka!"
-  location         : "Wuhan, China"
-  employer         : "Wuhan University"
+  location         : "Toronto, Canada"
+  employer         : "University of Toronto"
   pubmed           : $"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : $"http://yourfullgooglescholarurl.com"
-  email            : "hlmao111@163.com"
+  email            : "hlmao111at163dotcom"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile
   uri              :
   facebook         :
